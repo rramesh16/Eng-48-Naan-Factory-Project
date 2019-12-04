@@ -15,4 +15,8 @@ def bake_dough(arg1):
     else:
         return 'Naan'
 
+def run_factory(arg1, arg2):
+    output = make_dough(arg1, arg2)
+    output2 = bake_dough(arg1)
+    return output2
 
