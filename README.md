@@ -27,3 +27,9 @@ Then put the dough in the oven to produce the Naan
 Lastly we should only give the factory water and flour to make the Naan.
 -  inputs = 'water' and 'flour'
 - outputs = 'Naan' 
+
+## How to run the program
+- Run the naan_factory_run file
+
+## How to run the tests
+- Run the naan_factory_tests file
