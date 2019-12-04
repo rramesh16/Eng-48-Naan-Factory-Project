@@ -1,23 +1,6 @@
-# Basis of a test
-# You will be testing functions or methods, these need to be called or initialised
-# Having controlled inputs for known outputs and testing
+from naan_factory_functions import *
 
-def make_dough(arg1, arg2):
-    if arg1 != 'water' and arg2 != 'water':
-        return 'not dough'
-    elif arg1 != 'flour' and arg2 != 'flour':
-        return 'not dough'
-    else:
-        return 'dough'
-
-
-def bake_dough(arg1):
-    if arg1 != 'dough':
-        return 'not Naan'
-    else:
-        return 'Naan'
-
-
+# Tests go here for separation of concern
 
 # Make test for make_dough
 print("Testing make_dough with 'water' and 'flour'. Expected --> 'dough'")
