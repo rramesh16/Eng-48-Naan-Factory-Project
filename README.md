@@ -6,6 +6,8 @@ This is a repo for our Naan Factory
 - Markdown
 - TDD
 - Functional Programming  
+- DRY Principles 
+- Separation of concerns
 
 ## Specification of the Factory
 
